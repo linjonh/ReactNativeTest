@@ -1,0 +1,19 @@
+{
+  "name": "react-native-test",
+  "version": "1.0.0",
+  "description": "this is my react native testing app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "keywords": [
+    "react",
+    "native"
+  ],
+  "author": "jaysen",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-native": "^0.39.2"
+  }
+}
